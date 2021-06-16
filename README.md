@@ -7,7 +7,7 @@ A landing page for Pareanom Chicken Bar's menu and information about their outle
   <li>About Pareanom</li>
   <li>Menu</li>
   <li>Outlet</li>
-  </li>
+  
 <h3>This website still under maintenance.</h3>
 <h4>Thank you <3</h4>
  
