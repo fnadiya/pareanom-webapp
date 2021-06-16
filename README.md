@@ -1,4 +1,4 @@
-# pareanom-webapp
+# pareanoom-webapp
 A landing page for Pareanom Chicken Bar's menu and information about their outlet. This website was created with HTML and CSS, will adding bootstrap soon.
 <br><br>
   <b>What's content inside this website?</b>
